@@ -1,0 +1,24 @@
+# Build
+build/
+bin/
+*.o
+*.a
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent Logs
+recycle_trash/
+agents_brain/docs/session_brain.md
+TALKS.md
+TIMELINE.md
+
+# Virtualenv (if any)
+.venv/
+venv/
