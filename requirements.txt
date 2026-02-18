@@ -1,0 +1,10 @@
+python-docx
+openpyxl
+python-pptx
+PyPDF2
+aiohttp
+playwright
+
+# Optional: for more advanced concurrency and sandboxing
+# docker
+# psutil
