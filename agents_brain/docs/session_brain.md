@@ -25,6 +25,8 @@
 ## 작업 요약 / Task Summary
 - 프로젝트 초기화 및 C++ 전환 완료. / Completed project initialization and C++ transition.
 - `FileManager`, `LLMClient`, `Planner` 핵심 모듈 구현 완료. / Implemented core modules: `FileManager`, `LLMClient`, `Planner`.
+- [x] **v0.1.0 배포**: 고성능 C++ 엔진 핵심 아키텍처 완성 및 병렬 처리 시스템 구축. / **v0.1.0 Release**: Completed core C++ engine architecture and implemented parallel processing.
+- [x] **무한 리루프 정복**: 자가 비판을 통한 품질 개선 및 기능 확장 성공. / **Muhan-Reloop Dominated**: Successful quality improvement and feature expansion via self-criticism.
 - CMake 빌드 시스템 및 JSON-RPC 인터페이스(for Electron) 구축 완료. / Established CMake build system and JSON-RPC interface for Electron.
 - GitHub Actions (`deploy.yml`) 및 Dockerfile 설정 완료. / Configured GitHub Actions (deploy.yml) and Dockerfile.
 - 퍼블릭 저장소(`hslcrb/openworks`) 동기화 및 최종 푸시 완료. / Synchronized with the public repository (`hslcrb/openworks`) and completed the final push.
